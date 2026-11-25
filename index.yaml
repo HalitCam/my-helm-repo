@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   phonebook:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2026-11-25T15:02:08.967227+01:00"
+    appVersion: 2.0.0
+    created: "2026-11-25T15:38:25.5922711+01:00"
     description: Helm configuration of the phone app deployed by K8s
-    digest: 15ae7423eaea95a761f2c891e0d72ad46a01627e80bc098cf3c7f9ccec7cc99e
+    digest: 277d50d2539552fae2f6f502b2c78533851a0d3bfee4f754ab2184cb1dd10109
     name: phonebook
     type: application
     urls:
     - phonebook-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-25T15:02:08.9661417+01:00"
+generated: "2026-11-25T15:38:25.5906613+01:00"
